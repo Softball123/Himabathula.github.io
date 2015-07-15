@@ -1,0 +1,79 @@
+/*
+selector {
+  property:value;
+}
+*/
+
+h2{
+  font-size:150%;
+}
+
+em{
+  font-style:italic;
+  text-transform:uppercase;
+}
+
+strong{
+  color:orange;
+  background-color:purple;
+}
+
+#allcontetnt {
+  margin-left:auto;
+  margin-right:auto;
+  
+}
+
+#left{
+  padding:15px;
+  margin:10px;
+  width:150px;
+  float:left;
+  
+}
+
+#right {
+padding:15px;
+margin:10px;
+width:150px;
+float:left;
+}
+
+#middle{
+width:150px;
+margin:0px 10px 10px 20px;
+}
+
+
+body {
+color:blue;
+font-size:#px;
+font-family:Arial Black;
+background-color:#B2D1FF;
+}
+
+
+h2 {
+  color:#B2D1FF;
+}
+#awesome {
+  color:red;
+
+}
+
+.song {
+  color:blue;
+  
+}
+
+.scrollbox{
+  height:200px;
+  width:500px;
+  overflow:scroll;
+  float:right;
+}
+
+.box{
+  border:2px inset orange;
+  width:700px;
+}
